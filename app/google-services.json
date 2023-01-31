@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "658425769082",
+    "project_id": "qlvdcn",
+    "storage_bucket": "qlvdcn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658425769082:android:eab9b87cba285cbd10dfc3",
+        "android_client_info": {
+          "package_name": "com.huce.qlvdcn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658425769082-tepemth1vh3vj9am0poiqdc5tmusc9m8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAA5f_dGDzlnMxYHJ2C-5cLILWbhPtFNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658425769082-tepemth1vh3vj9am0poiqdc5tmusc9m8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

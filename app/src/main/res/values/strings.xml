@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Quản lý đồ dùng cá nhân</string>
+    <string name="nav_home">Trang chủ</string>
+    <string name="nav_create">Thêm mới</string>
+    <string name="nav_statistic">Thống kê</string>
+    <string name="nav_profile">Tài khoản</string>
+    <string name="nav_logout">Đăng xuất</string>
+    <string name="navigation_drawer_open">Mở navigation</string>
+    <string name="navigation_drawer_close">Đóng navigation</string>
+</resources>
